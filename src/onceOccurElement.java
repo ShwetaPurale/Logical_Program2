@@ -28,7 +28,7 @@ public class onceOccurElement {
         	 if(unique)
         	 {
         	 System.out.print(str.charAt(i));
-//        	 break;
+
         	 }        	 
           }
 	}

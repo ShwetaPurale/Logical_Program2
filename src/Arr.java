@@ -31,7 +31,7 @@ public class Arr {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int[] arr= {1, 2, 8, 16, 66, 21,52,63};
+		int[] arr= {1, 2, 8, 16, 66, 21,52,63,52,96};
 		int thirdLargest= findThirdLargest(arr);
 		
 		System.out.println("Third largest no "+thirdLargest);
